@@ -1,0 +1,17 @@
+For the pipeline with ParallelHashingVectorizer and LogisticRegression with n_jobs equal to the number of threads.
+
+3.2 GHz Intel Core i5 (2 cores, 4 threads):
+    
+avg_fit_time: 0.7949236234029134
+avg_score_time: 0.0704490343729655
+
+4 vCPU AI Platform Notebook:
+
+avg_fit_time: 1.1655476888020833
+avg_score_time: 0.07033753395080566
+
+
+8 vCPU AI Platform Notebook:
+
+avg_fit_time: 0.9870150883992513
+avg_score_time: 0.055376529693603516
