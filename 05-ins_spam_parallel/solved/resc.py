@@ -43,3 +43,4 @@ class ParallelHashingVectorizer(HashingVectorizer):
         X_transformed = vstack(X_parts_transformed)
         
         return X_transformed
+    
