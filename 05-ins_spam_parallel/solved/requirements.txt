@@ -134,7 +134,7 @@ pyasn1-modules==0.2.5
 pycrypto==2.6.1
 pydaal==2019.0.0.20180713
 pydot==1.4.1
-Pygments==2.4.2
+Pygments==2.7.4
 pygobject==3.22.0
 pyparsing==2.4.0
 pyrsistent==0.15.2
