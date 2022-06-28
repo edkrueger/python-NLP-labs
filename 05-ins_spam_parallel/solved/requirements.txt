@@ -1,5 +1,5 @@
 ansiwrap==0.8.4
-arrow==0.14.2
+arrow==0.15.1
 attrs==19.1.0
 backports-abc==0.5
 backports.functools-lru-cache==1.5
