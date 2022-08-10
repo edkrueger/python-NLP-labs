@@ -101,7 +101,7 @@ mkl-fft==1.0.6
 mkl-random==1.0.1.1
 mock==3.0.5
 monotonic==1.5
-nbconvert==5.5.0
+nbconvert==6.3.0
 nbdime==1.0.6
 nbformat==4.4.0
 networkx==2.2
